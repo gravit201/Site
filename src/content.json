@@ -1,0 +1,33 @@
+[
+  {
+    "id": "welcome",
+    "icon": "👋",
+    "title": "ようこそ",
+    "blocks": [
+      {
+        "id": "qt417r6e",
+        "type": "h1",
+        "text": "ここは私のホームページ",
+        "done": false
+      },
+      {
+        "id": "10w3txdj",
+        "type": "text",
+        "text": "このページはパソコンで npm run dev を開いているときだけ編集できます。公開したサイトは読むだけです。",
+        "done": false
+      },
+      {
+        "id": "ajk9z9ke",
+        "type": "text",
+        "text": "行頭に「# 」で見出し、「[] 」でチェックボックスになります。",
+        "done": false
+      },
+      {
+        "id": "k6x5noi3",
+        "type": "todo",
+        "text": "最初のページを作る",
+        "done": false
+      }
+    ]
+  }
+]
